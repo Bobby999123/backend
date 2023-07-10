@@ -1,12 +1,12 @@
 # backend
 
-1. Creating a express server
+1. Creating an express server
 2. Creating a get and post request in it
-3. Connect it with mongodb database
+3. Connect it with Mongodb database
 
 # prerequisite
-Install MongoBD Compass 
-Install VS Code
+1. Install MongoBD Compass 
+2. Install VS Code
 
 # To run 
 1. Save it in a folder
